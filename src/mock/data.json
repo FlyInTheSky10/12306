@@ -1,0 +1,652 @@
+{
+  "G1": {
+    "go": "G6013",
+    "back": "G6014",
+    "from": "深圳北",
+    "to": "武汉",
+    "time": 425,
+	"isFXH": false,
+    "stations": [
+      {
+        "name": "深圳北",
+        "delTime": 15,
+        "stayTime": 0
+      },
+      {
+        "name": "虎门",
+        "delTime": 15,
+        "stayTime": 2
+      },
+      {
+        "name": "广州南",
+        "delTime": 20,
+        "stayTime": 5
+      },
+      {
+        "name": "韶关",
+        "delTime": 50,
+        "stayTime": 2
+      },
+      {
+        "name": "衡阳东",
+        "delTime": 60,
+        "stayTime": 5
+      },
+      {
+        "name": "长沙南",
+        "delTime": 60,
+        "stayTime": 10
+      },
+      {
+        "name": "岳阳东",
+        "delTime": 30,
+        "stayTime": 3
+      },
+      {
+        "name": "武汉",
+        "delTime": 35,
+        "stayTime": 0
+      }
+    ]
+  },
+  "G2": {
+    "go": "G99",
+    "back": "G100",
+    "from": "深圳北",
+    "to": "武汉",
+    "time": 455,
+	"isFXH": true,
+    "stations": [
+      {
+        "name": "深圳北",
+        "delTime": 30,
+        "stayTime": 0
+      },
+      {
+        "name": "广州南",
+        "delTime": 30,
+        "stayTime": 3
+      },
+      {
+        "name": "长沙南",
+        "delTime": 165,
+        "stayTime": 2
+      },
+      {
+        "name": "武汉",
+        "delTime": 70,
+        "stayTime": 0
+      }
+    ]
+  },
+  "G3": {
+    "go": "G1033",
+    "back": "G1034",
+    "from": "广州南",
+    "to": "赣州西",
+    "time": 515,
+	"isFXH": false,
+    "stations": [
+      {
+        "name": "广州南",
+        "delTime": 25,
+        "stayTime": 0
+      },
+      {
+        "name": "光明城",
+        "delTime": 25,
+        "stayTime": 2
+      },
+      {
+        "name": "深圳北",
+        "delTime": 12,
+        "stayTime": 5
+      },
+      {
+        "name": "惠州北",
+        "delTime": 15,
+        "stayTime": 3
+      },
+      {
+        "name": "河源东",
+        "delTime": 30,
+        "stayTime": 4
+      },
+      {
+        "name": "赣州西",
+        "delTime": 40,
+        "stayTime": 0
+      }
+    ]
+  },
+  "G4": {
+    "go": "G1313",
+    "back": "G1314",
+    "from": "广州南",
+    "to": "成都东",
+    "time": 430,
+  	"isFXH": false,
+    "stations": [
+      {
+        "name": "广州南",
+        "delTime": 25,
+        "stayTime": 0
+      },
+      {
+        "name": "清远",
+        "delTime": 25,
+        "stayTime": 2
+      },
+	  {
+	    "name": "韶关",
+	    "delTime": 30,
+	    "stayTime": 2
+	  },
+	  {
+	    "name": "郴州西",
+	    "delTime": 30,
+	    "stayTime": 2
+	  },
+	  {
+	    "name": "衡阳东",
+	    "delTime": 30,
+	    "stayTime": 3
+	  },
+	  {
+	    "name": "株洲西",
+	    "delTime": 35,
+	    "stayTime": 5
+	  },
+	  {
+	    "name": "长沙南",
+	    "delTime": 35,
+	    "stayTime": 5
+	  },
+	  {
+	    "name": "岳阳东",
+	    "delTime": 30,
+	    "stayTime": 2
+	  },
+	  {
+	    "name": "咸宁北",
+	    "delTime": 35,
+	    "stayTime": 2
+	  },
+	  {
+	    "name": "武汉",
+	    "delTime": 25,
+	    "stayTime": 10
+	  },
+	  {
+	    "name": "天门南",
+	    "delTime": 60,
+	    "stayTime": 2
+	  },
+	  {
+	    "name": "荆州",
+	    "delTime": 50,
+	    "stayTime": 2
+	  },
+	  {
+	    "name": "宜昌东",
+	    "delTime": 37,
+	    "stayTime": 5
+	  },
+	  {
+	    "name": "恩施",
+	    "delTime": 55,
+	    "stayTime": 3
+	  },
+	  {
+	    "name": "涪陵北",
+	    "delTime": 110,
+	    "stayTime": 2
+	  },
+	  {
+	    "name": "重庆北",
+	    "delTime": 40,
+	    "stayTime": 20
+	  },
+	  {
+	    "name": "遂宁",
+	    "delTime": 80,
+	    "stayTime": 2
+	  },
+	  {
+	    "name": "成都东",
+	    "delTime": 55,
+	    "stayTime": 0
+	  }
+    ]
+  },
+  "G5": {
+    "go": "G6001",
+    "back": "G6002",
+    "from": "福田",
+    "to": "长沙南",
+    "time": 544,
+  	"isFXH": false,
+    "stations": [
+	  {
+	    "name": "福田",
+	    "delTime": 12,
+	    "stayTime": 0
+	  },
+      {
+        "name": "深圳北",
+        "delTime": 12,
+        "stayTime": 4
+      },
+	  {
+	    "name": "虎门",
+	    "delTime": 15,
+	    "stayTime": 3
+	  },
+	  {
+	    "name": "广州南",
+	    "delTime": 15,
+	    "stayTime": 4
+	  },
+	  {
+	    "name": "清远",
+	    "delTime": 25,
+	    "stayTime": 2
+	  },
+	  {
+	    "name": "韶关",
+	    "delTime": 33,
+	    "stayTime": 2
+	  },
+	  {
+	    "name": "郴州西",
+	    "delTime": 30,
+	    "stayTime": 2
+	  },
+	  {
+	    "name": "衡阳东",
+	    "delTime": 30,
+	    "stayTime": 4
+	  },
+	  {
+	    "name": "株洲西",
+	    "delTime": 35,
+	    "stayTime": 3
+	  },
+	  {
+	    "name": "长沙南",
+	    "delTime": 35,
+	    "stayTime": 0
+	  }
+    ]
+  },
+  "G6": {
+    "go": "G1343",
+    "back": "G1344",
+    "from": "福田",
+    "to": "长沙南",
+    "time": 668,
+  	"isFXH": false,
+	"stations": [
+		{
+			"name": "福田",
+			"delTime": 10,
+			"stayTime": 0
+		},
+		{
+			"name": "深圳北",
+			"delTime": 10,
+			"stayTime": 3
+		},
+		{
+			"name": "广州南",
+			"delTime": 30,
+			"stayTime": 3
+		},
+		{
+			"name": "韶关",
+			"delTime": 52,
+			"stayTime": 2
+		},
+		{
+			"name": "长沙南",
+			"delTime": 136,
+			"stayTime": 0
+		}
+	]
+  },
+  "G7": {
+    "go": "G79",
+    "back": "G80",
+    "from": "深圳北",
+    "to": "北京西",
+    "time": 692,
+  	"isFXH": false,
+  	"stations": [
+  		{
+  			"name": "深圳北",
+  			"delTime": 29,
+  			"stayTime": 0
+  		},
+		{
+			"name": "广州南",
+			"delTime": 29,
+			"stayTime": 3
+		},
+		{
+			"name": "长沙南",
+			"delTime": 140,
+			"stayTime": 3
+		},
+		{
+			"name": "武汉",
+			"delTime": 80,
+			"stayTime": 3
+		},
+		{
+			"name": "郑州东",
+			"delTime": 111,
+			"stayTime": 3
+		},
+		{
+			"name": "石家庄",
+			"delTime": 78,
+			"stayTime": 3
+		},
+		{
+			"name": "北京西",
+			"delTime": 60,
+			"stayTime": 0
+		}
+  	]
+  },
+  "G8": {
+    "go": "G2055",
+    "back": "G2056",
+    "from": "广州南",
+    "to": "上海虹桥",
+    "time": 525,
+  	"isFXH": false,
+  	"stations": [
+  		{
+  			"name": "广州南",
+  			"delTime": 29,
+  			"stayTime": 0
+  		},
+		{
+			"name": "深圳北",
+			"delTime": 31,
+			"stayTime": 3
+		},
+		{
+			"name": "汕尾",
+			"delTime": 47,
+			"stayTime": 2
+		},
+		{
+			"name": "潮汕",
+			"delTime": 52,
+			"stayTime": 3
+		},
+		{
+			"name": "漳州",
+			"delTime": 60,
+			"stayTime": 3
+		},
+		{
+			"name": "厦门北",
+			"delTime": 22,
+			"stayTime": 5
+		},
+		{
+			"name": "泉州",
+			"delTime": 25,
+			"stayTime": 2
+		},
+		{
+			"name": "莆田",
+			"delTime": 25,
+			"stayTime": 2
+		},
+		{
+			"name": "福州南",
+			"delTime": 35,
+			"stayTime": 5
+		},
+		{
+			"name": "宁德",
+			"delTime": 42,
+			"stayTime": 2
+		},
+		{
+			"name": "温州南",
+			"delTime": 30,
+			"stayTime": 3
+		},
+		{
+			"name": "宁波",
+			"delTime": 102,
+			"stayTime": 3
+		},
+		{
+			"name": "绍兴北",
+			"delTime": 40,
+			"stayTime": 2
+		},
+		{
+			"name": "杭州东",
+			"delTime": 27,
+			"stayTime": 5
+		},
+		{
+			"name": "嘉兴南",
+			"delTime": 24,
+			"stayTime": 2
+		},
+		{
+			"name": "上海虹桥",
+			"delTime": 30,
+			"stayTime": 0
+		}
+  	]
+  },
+  "G9": {
+    "go": "G6543",
+    "back": "G6544",
+    "from": "韶关",
+    "to": "汕头",
+    "time": 754,
+  	"isFXH": false,
+  	"stations": [
+  		{
+  			"name": "韶关",
+  			"delTime": 35,
+  			"stayTime": 0
+  		},
+		{
+			"name": "清远",
+			"delTime": 35,
+			"stayTime": 2
+		},
+		{
+			"name": "广州南",
+			"delTime": 25,
+			"stayTime": 6
+		},
+		{
+			"name": "虎门",
+			"delTime": 15,
+			"stayTime": 2
+		},
+		{
+			"name": "深圳北",
+			"delTime": 15,
+			"stayTime": 4
+		},
+		{
+			"name": "汕尾",
+			"delTime": 47,
+			"stayTime": 2
+		},
+		{
+			"name": "潮汕",
+			"delTime": 52,
+			"stayTime": 3
+		},
+		{
+			"name": "汕头",
+			"delTime": 25,
+			"stayTime": 0
+		}
+  	]
+  },
+  "G10": {
+    "go": "G89",
+    "back": "G90",
+    "from": "香港西九龙",
+    "to": "武汉",
+    "time": 681,
+  	"isFXH": false,
+  	"stations": [
+  		{
+  			"name": "香港西九龙",
+  			"delTime": 35,
+  			"stayTime": 0
+  		},
+		{
+			"name": "深圳北",
+			"delTime": 35,
+			"stayTime": 5
+		},
+		{
+			"name": "广州南",
+			"delTime": 30,
+			"stayTime": 5
+		},
+		{
+			"name": "韶关",
+			"delTime": 55,
+			"stayTime": 2
+		},
+		{
+			"name": "长沙南",
+			"delTime": 133,
+			"stayTime": 4
+		},
+		{
+			"name": "武汉",
+			"delTime": 80,
+			"stayTime": 0
+		}
+  	]
+  },
+  "G11": {
+    "go": "G1455",
+    "back": "G1456",
+    "from": "广州南",
+    "to": "深圳北",
+    "time": 743,
+  	"isFXH": false,
+  	"stations": [
+  		{
+  			"name": "广州南",
+  			"delTime": 29,
+  			"stayTime": 0
+  		},
+  		{
+  			"name": "深圳北",
+  			"delTime": 29,
+  			"stayTime": 0
+  		}
+  	]
+  },
+  "G12": {
+    "go": "G1443",
+    "back": "G1444",
+    "from": "广州南",
+    "to": "深圳北",
+    "time": 862,
+  	"isFXH": false,
+  	"stations": [
+  		{
+  			"name": "广州南",
+  			"delTime": 15,
+  			"stayTime": 0
+  		},
+		{
+			"name": "虎门",
+			"delTime": 15,
+			"stayTime": 2
+		},
+  		{
+  			"name": "深圳北",
+  			"delTime": 15,
+  			"stayTime": 0
+  		}
+  	]
+  },
+  "G13": {
+    "go": "D1843",
+    "back": "D1844",
+    "from": "深圳北",
+    "to": "成都东",
+    "time": 853,
+  	"isFXH": false,
+  	"stations": [
+  		{
+  			"name": "深圳北",
+  			"delTime": 29,
+  			"stayTime": 0
+  		},
+		{
+			"name": "广州南",
+			"delTime": 29,
+			"stayTime": 4
+		},
+		{
+			"name": "桂林西",
+			"delTime": 140,
+			"stayTime": 3
+		},
+		{
+			"name": "贵阳东",
+			"delTime": 118,
+			"stayTime": 5
+		},
+		{
+			"name": "宜宾西",
+			"delTime": 100,
+			"stayTime": 2
+		},
+		{
+			"name": "成都东",
+			"delTime": 80,
+			"stayTime": 0
+		}
+  	]
+  },
+  "G14": {
+    "go": "D1783",
+    "back": "D1784",
+    "from": "广州南",
+    "to": "成都东",
+    "time": 803,
+  	"isFXH": false,
+  	"stations": [
+		{
+			"name": "广州南",
+			"delTime": 265,
+			"stayTime": 0
+		},
+		{
+			"name": "贵阳东",
+			"delTime": 265,
+			"stayTime": 3
+		},
+		{
+			"name": "成都东",
+			"delTime": 180,
+			"stayTime": 0
+		}
+  	]
+  }
+}
