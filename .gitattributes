@@ -1,2 +1,1 @@
-special-vendored-path/* linguist-vendored
-ChinesePY.js linguist-vendored=false
+ChinesePY.js linguist-language=Vue
