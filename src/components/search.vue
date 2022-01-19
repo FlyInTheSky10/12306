@@ -42,6 +42,7 @@
 				</div>
 			</div>
 		</div>
+		<div class="tips" align="center">仅为学习使用 (Vue3.0 实现 12306 前端)</div>
 	</div>
 </template>
 
@@ -291,5 +292,8 @@
 	background:url(../assets/exchange.png);
 	background-size: 100% 100%;
 	background-repeat:no-repeat;
+}
+.tips {
+	margin-top: 10px;
 }
 </style>
